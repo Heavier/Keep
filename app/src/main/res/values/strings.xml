@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Keep</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Usuario</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="no_login">Entrar como invitado</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="error_invalid_email">Nombre no válido</string>
+    <string name="error_invalid_password">Contraseña demasiado corta</string>
+    <string name="error_incorrect_password">Contraseña incorrecta</string>
+    <string name="error_field_required">Campo requerido</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="eliminado">Nota eliminada</string>
+    <string name="eliminando">Eliminando nota</string>
+    <string name="eliminarID">Introduce el ID</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="cancelar">Cancelar</string>
+
+    <string name="escribe">Escribe lo que quieras</string>
+    <string name="guardar">Nota guardada</string>
+
+
+</resources>
